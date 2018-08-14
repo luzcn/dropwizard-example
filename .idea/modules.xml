@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api-spec/rest-api-spec.iml" filepath="$PROJECT_DIR$/rest-api-spec/rest-api-spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-example.iml" filepath="$PROJECT_DIR$/rest-example.iml" />
+    </modules>
+  </component>
+</project>
